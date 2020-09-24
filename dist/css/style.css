@@ -1,0 +1,33 @@
+
+body{
+	background: black;
+}
+
+
+.bg-brown{
+	background-color:chocolate;
+}.table-responsive{
+	display: block;
+   overflow-x: scroll;
+   width: 100%;
+  -webkit-overflow-scrolling:touch;
+}.card-content{
+	margin: 5px;
+	padding: 5px;
+}.card-content .card-img {
+	margin-left: 10px;
+	width: 120px;
+}.list-group{
+	list-style: none;
+	margin: 10px;
+	padding: 5px;
+}.list-group .list-item{
+	font-style: normal;
+	font-size: 15px;
+	font-weight: bolder;
+	font-family: Arial;
+	padding: 5px;
+
+}.list-group .list-item strong{
+	color: teal;
+}
